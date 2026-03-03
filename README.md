@@ -36,4 +36,4 @@ bash compute_score.sh results/<ds_name>/<model_name>/<method_name>/<args_name>/p
 
 
 ## Acknowledgment
-Our code is based on  [``EasyEdit``](https://github.com/zjunlp/EasyEdit), and [``UnKE``](https://github.com/TrustedLLM/UnKE).
+Our code is based on  [``EasyEdit``](https://github.com/zjunlp/EasyEdit) and [``UnKE``](https://github.com/TrustedLLM/UnKE).
