@@ -27,7 +27,7 @@ results/
                     |__ 999.json
 ```
 
-If you want run the other baselines, you can ferer to run_baseline.sh
+If you want to run the other baselines, you can ferer to run_baseline.sh
 
 #### 2. Summarize the results
 ```bash
